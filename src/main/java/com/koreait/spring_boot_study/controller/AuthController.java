@@ -74,6 +74,6 @@ public class AuthController {
         return "로그인완료:" + signinReqdto.getEmail() + "님 반갑습니다.";
 
     }
-
+//test
 }
 
